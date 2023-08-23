@@ -1,0 +1,10 @@
+_id,Montadora,País,Carros[0].Carro,Carros[1].Carro,Carros[0].Cor,Carros[1].Cor,Carros[0].Montadora,Carros[1].Montadora
+64e559b46d3ee535845a3485,Chevrolet,EUA,,,,,,
+64e559b46d3ee535845a3486,Volkswagen,Alemanha,,,,,,
+64e559b46d3ee535845a3487,Renault,França,,,,,,
+64e559b46d3ee535845a3488,Ford,EUA,,,,,,
+64e559b46d3ee535845a3489,Honda,Japão,,,,,,
+64e559b46d3ee535845a348a,,EUA,Onix,Fiesta,Prata,Vermelho,Chevrolet,Ford
+64e559b46d3ee535845a348b,,Japão,City,,Preto,,Honda,
+64e559b46d3ee535845a348c,,França,Sandero,,Prata,,Renault,
+64e559b46d3ee535845a348d,,Alemanha,Polo,,Branco,,Volkswagen,
